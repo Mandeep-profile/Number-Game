@@ -1,0 +1,33 @@
+.game-container {
+    width: 50%;
+    height: max-content;
+    margin: 100px auto;
+    border: 1px solid gray;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  #inputbox {
+    width: 240px;
+    height: 25px;
+    padding-left: 5px;
+  
+    font-size: 14px;
+    outline: none;
+  }
+  #btn {
+    height: 30px;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  #newbtn{
+    height: 30px;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .resultParas {
+    text-align: center;
+  }
